@@ -1,0 +1,16 @@
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f5f8fa;
+    color: #333;
+}
+h1, h5 {
+    font-weight: 600;
+}
+.btn {
+    border-radius: 8px;
+    padding: 10px 18px;
+}
+.shadow {
+    box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+}

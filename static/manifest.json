@@ -1,0 +1,36 @@
+
+{
+  "name": "Leaf Health Detector",
+  "short_name": "PlantAI",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#198754",
+  "icons": [
+    {
+      "src": "/static/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+
+  {
+    "src": "/static/screenshot1.png",
+    "type": "image/png",
+    "sizes": "540x720",
+    "form_factor": "wide"
+  },
+  {
+    "src": "/static/screenshot2.png",
+    "type": "image/png",
+    "sizes": "360x640"
+  }
+]
+
+}

@@ -1,0 +1,21 @@
+# Ignore downloaded model
+plant_disease_model_1_latest.pt
+
+# Ignore virtual environments
+venv/
+env/
+rahul/
+
+# Bytecode and cache
+__pycache__/
+*.pyc
+
+# IDE/OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Compiled binaries
+*.dll
+*.lib
+*.exe
