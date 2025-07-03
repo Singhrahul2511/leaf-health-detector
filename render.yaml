@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: leaf-health-app
+    env: python
+    buildCommand: ""
+    startCommand: gunicorn app:app
+    plan: free
