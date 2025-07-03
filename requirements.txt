@@ -1,3 +1,4 @@
+--only-binary=:all:
 Flask==2.3.3
 gunicorn==21.2.0
 torch==2.7.1
