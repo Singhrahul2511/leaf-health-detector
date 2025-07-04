@@ -1,8 +1,8 @@
-Flask==2.3.3
-gunicorn==21.2.0
-torch==2.7.1
-torchvision==0.22.1
-pandas==2.2.3
-Pillow==10.2.0
-numpy==1.26.4
-gdown==5.1.0
+Flask
+gunicorn
+torch
+torchvision
+pandas
+Pillow
+numpy
+gdown
